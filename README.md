@@ -195,6 +195,6 @@ This project is licensed under the MIT ![LICENSE](LICENSE).
 
 If you have questions or want to collaborate:
 
-GitHub: your-username
+GitHub: PoornimaChowdary560
 
-Email: your-email@example.com
+Email: poornimamaddipati22@gmail.com.com
